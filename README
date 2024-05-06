@@ -1,2 +1,10 @@
 Repository created in the context of NX411-Brain Like Computation and intelligence
 Contains the best week9 model as well as relevant notebooks for the tasks  
+
+Files: 
+
+test.ipynb: notebook evaluating our best model over the evaluation dataset.
+quantized_model.pth: model dictionary of our best model from week 9, quantized for size limitations of GitHub.
+Week9LoadAndEvaluate.ipynb: Notebook for evaluation of the model over the test set, contains the quantized_model loader and the evaluation script.
+to obtain and save predictions over the test set.
+Brain_like_report_SelminVelardi.pdf: one page report detailing our methods and results from week6 to week9, with figures and tables requested.
